@@ -16,6 +16,7 @@
 		<Copyright>Project K, Inc.</Copyright>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageOutputPath>$(NuGetDirectory)</PackageOutputPath>
+		<Version>1.0.1</Version>
 	</PropertyGroup>
 
 
