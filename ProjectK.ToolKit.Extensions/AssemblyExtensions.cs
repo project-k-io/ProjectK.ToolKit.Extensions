@@ -2,7 +2,7 @@
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace ProjectK.ToolKit.Utils;
+namespace ProjectK.ToolKit.Extensions;
 
 public static class AssemblyExtensions
 {

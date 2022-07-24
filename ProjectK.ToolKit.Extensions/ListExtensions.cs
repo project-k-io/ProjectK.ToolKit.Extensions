@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ProjectK.ToolKit.Utils;
+namespace ProjectK.ToolKit.Extensions;
 
 public static class ListExtensions
 {

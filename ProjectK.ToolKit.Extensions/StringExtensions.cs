@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProjectK.ToolKit.Utils;
+namespace ProjectK.ToolKit.Extensions;
 
 public static class StringExtensions
 {
