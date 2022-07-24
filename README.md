@@ -1,2 +1,2 @@
-# ProjectK.Extensions.Generic
-Project K Generic Extensions
+# ProjectK.ToolKit.Extensions
+Project K ToolKit Extensions
